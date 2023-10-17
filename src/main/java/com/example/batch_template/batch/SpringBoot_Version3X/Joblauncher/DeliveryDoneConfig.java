@@ -18,6 +18,16 @@ import org.springframework.scheduling.annotation.Scheduled;
 @EnableBatchProcessing
 public class DeliveryDoneConfig extends DefaultBatchConfiguration {
 
+
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+    //브랜치를 테스트해보기위해 작성합니다.@@@@@@@@@@@@@@@@@@@@@@@@@
+
     public final JobLauncher jobLauncher;
 
     private final DeliveryDoneTasklet deliveryDoneTasklet;
