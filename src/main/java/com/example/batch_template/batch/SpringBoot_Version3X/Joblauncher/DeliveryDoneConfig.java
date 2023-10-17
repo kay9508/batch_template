@@ -28,6 +28,8 @@ public class DeliveryDoneConfig extends DefaultBatchConfiguration {
     //브랜치를 테스트해보기위해 작성합니다3.@@@@@@@@@@@@@@@@@@@@@@@@@
     //브랜치를 테스트해보기위해 작성합니다3.@@@@@@@@@@@@@@@@@@@@@@@@@
 
+    //브랜치를 테스트해보기위해 작성합니다3-1.@@@@@@@@@@@@@@@@@@@@@@@@@
+
     public final JobLauncher jobLauncher;
 
     private final DeliveryDoneTasklet deliveryDoneTasklet;
