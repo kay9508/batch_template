@@ -39,6 +39,7 @@ public class DeliveryDoneService {
         this.etcOrderDoneProcess(); // 기타주문
     }
 
+    /*ㅇㅁㄴㅇㄴㅁ*/
     private void orderDoneProcess() throws Exception { // 일반주문 배송완료처리 로직
 
 //        DeliveryRequest requestDto = new DeliveryRequest();
