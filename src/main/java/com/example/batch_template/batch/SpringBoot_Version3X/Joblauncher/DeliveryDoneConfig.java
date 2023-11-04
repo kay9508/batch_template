@@ -18,6 +18,11 @@ import org.springframework.scheduling.annotation.Scheduled;
 @EnableBatchProcessing
 public class DeliveryDoneConfig extends DefaultBatchConfiguration {
 
+    /*
+    # b-work1의 추가작업 1
+    # b-work1의 추가작업 2
+    # b-work1의 추가작업 3
+    */
     public final JobLauncher jobLauncher;
 
     private final DeliveryDoneTasklet deliveryDoneTasklet;
