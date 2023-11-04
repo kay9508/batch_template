@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 public class DeliveryDoneTasklet implements Tasklet {
 
     private Logger logger = LoggerFactory.getLogger(this.getClass());
-/*ㄴㅇㅁㄴㅇㄴㅁ*/
+
     @Autowired
     private DeliveryDoneService deliveryDoneService;
 
